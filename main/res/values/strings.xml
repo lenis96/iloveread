@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Libreria</string>
+    <string name="host">https://iloveread-lenis96.c9users.io/rest</string>
+</resources>

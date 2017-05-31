@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Inicio"
+        android:id="@+id/inicio"/>
+    <item android:title="Buscar"
+        android:id="@+id/buscar"/>
+    <item android:title="Categorias"
+        android:id="@+id/categorias"/>
+    <!--
+    <item android:title="Lista de deseos"
+        android:id="@+id/listaDeseos"/>-->
+    <item android:title="Carro de Compras"
+        android:id="@+id/carroCompras"/>
+    <item android:title="Perfil"
+        android:id="@+id/perfil"/>
+    <item android:title="Acerca de"
+        android:id="@+id/acercaDe"/>
+    <item android:title="Cerrar Sesión"
+        android:id="@+id/cerrarSesion"/>
+</menu>
